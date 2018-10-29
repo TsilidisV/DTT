@@ -1,5 +1,5 @@
-## DTT
-# Directory to text
+# DTT
+## Directory to text
 
 Choose a folder and get a txt file containing a list of the file names in that folder.
 
